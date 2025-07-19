@@ -181,10 +181,6 @@ footer input[type="text"],  footer input[type="email"], footer textarea{
 }
 
 /* responsive media query */
-.hide {
-    display: none;
-}
-
 @media screen and (max-width:576px) {
     nav,
     nav > ul,
